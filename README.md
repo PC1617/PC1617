@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pratik Choubey
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Mearn stack
+- 🌱 I’m currently learning Mern stack
 - 📫 mail me at pratik.choubey@ssipmt.com
 
 <!---
